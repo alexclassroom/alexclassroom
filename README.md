@@ -6,10 +6,10 @@ Alex Lion (阿力獅) 從 2017 年開始，便持續為 WordPress 台灣中文�
 <h2 align="center">贊助方式</h2>
 <p>
 <ol>
-<li>🎁 台灣社群成員請使用藍新金流：<a href="https://suo.fyi/donate-alexlion-blue" title="台灣社群成員請使用藍新金流" target="_blank">藍新金流</a></li>
-<li>🧧 海外社群成員請使用 PayPal：<a href="https://suo.fyi/donate-alexlion-paypal" title="海外社群成員請使用 PayPal" target="_blank">PayPal</a> (僅<b><u>台灣以外</u></b>國家/地區 PayPal 帳號可以贊助)</li>
 <li>🎖️ 懇請<b>每年贊助新台幣 1200 元/美金 40 元等值或倍數金額</b></li>
 <li>🎗️ <b>每年 365 人/份贊助</b>，讓阿力獅的全職社群本地化工作走的更遠更久</li>
+<li>🎁 台灣社群成員請使用藍新金流：<a href="https://suo.fyi/donate-alexlion-blue" title="台灣社群成員請使用藍新金流" target="_blank">藍新金流</a></li>
+<li>🧧 海外社群成員請使用 PayPal：<a href="https://suo.fyi/donate-alexlion-paypal" title="海外社群成員請使用 PayPal" target="_blank">PayPal</a> (僅<b><u>台灣以外</u></b>國家/地區 PayPal 帳號可以贊助)</li>
 <li>歡迎加入 Facebook 公開社團《<a href="https://www.facebook.com/groups/wordpresstwhant" title="你我他的 WordPress 使用心得及阿力獅的台灣漢文本地化" target="_blank">你我他的 WordPress 使用心得及阿力獅的台灣漢文本地化</a>》</li>
 </ol>
 </p>
