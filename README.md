@@ -3,6 +3,13 @@
 <p>
 Alex Lion (阿力獅) 從 2017 年開始，便持續為 WordPress 台灣中文社群提供各種高品質的本地化語言套件，包含 WordPress 核心程式、外掛及佈景主題；如果這些台灣中文介面的程式對你的網站及工作確有幫助，懇請予以小額贊助，讓這份全職社群本地化工作可以走的更長更久。
 </p>
+<h2 align="center">非 WordPress 的台灣漢文語言套件/h2>
+<p>
+<ol>
+<li><a href="https://github.com/alexclassroom/YOURLS-zh_TW" target="_blank">YOURLS 縮址服務台灣漢文語言套件</a></li>
+<li><a href="https://github.com/Studio-42/elFinder/pull/3622" target="_blank">elFinder 網頁介面主機檔案管理程式台灣漢文語言套件</a></li>
+</ol>
+</p>
 <h2 align="center">贊助方式</h2>
 <p>
 <ol>
