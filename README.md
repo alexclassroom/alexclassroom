@@ -3,6 +3,12 @@
 <p>
 Alex Lion (阿力獅) 從 2017 年開始，便持續為 WordPress 台灣中文社群提供各種高品質的本地化語言套件，包含 WordPress 核心程式、外掛及佈景主題；如果這些台灣中文介面的程式對你的網站及工作確有幫助，懇請予以小額贊助，讓這份全職社群本地化工作可以走的更長更久。
 </p>
+<h2 align="center">LEMP 套件 Webinoly 官方繁體中文網站本地化貢獻者</h2>
+<p>
+<ol>
+<li><a href="https://webinoly.com/zh/" target="_blank">Webinoly 繁體中文官方網站</a></li>
+</ol>
+</p>
 <h2 align="center">非 WordPress 的台灣漢文語言套件</h2>
 <p>
 <ol>
