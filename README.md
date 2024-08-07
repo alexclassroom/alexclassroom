@@ -12,8 +12,8 @@ Alex Lion (阿力獅) 從 2017 年開始，便持續為 WordPress 台灣中文�
 <h2 align="center">非 WordPress 的台灣漢文語言套件</h2>
 <p>
 <ol>
-<li><a href="https://github.com/alexclassroom/YOURLS-zh_TW" target="_blank">YOURLS 縮址服務台灣漢文語言套件</a></li>
-<li><a href="https://github.com/Studio-42/elFinder/pull/3622" target="_blank">elFinder 網頁介面主機檔案管理程式台灣漢文語言套件</a></li>
+<li><a href="https://github.com/alexclassroom/YOURLS-zh_TW" target="_blank">YOURLS 縮址服務台灣漢文語言套件</a>：全新重譯，官方已整合至存放庫</li>
+<li><a href="https://github.com/Studio-42/elFinder/pull/3622" target="_blank">elFinder 網頁介面主機檔案管理程式台灣漢文語言套件</a>：全新重譯，官方已整合至存放庫</li>
 </ol>
 </p>
 <h2 align="center">贊助方式</h2>
