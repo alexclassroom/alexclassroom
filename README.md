@@ -6,7 +6,7 @@ Alex Lion (阿力獅) 從 2017 年開始，便持續為 WordPress 台灣中文�
 <h2 align="center">LEMP 套件 Webinoly 官方繁體中文網站本地化貢獻者</h2>
 <p>
 <ol>
-<li><a href="https://webinoly.com/zh/" target="_blank">Webinoly 繁體中文官方網站</a></li>
+<li><a href="https://webinoly.com/zh/" target="_blank">Webinoly 繁體中文官方網站</a> (目前暫停，等我有空)</li>
 </ol>
 </p>
 <h2 align="center">非 WordPress 的台灣漢文語言套件</h2>
